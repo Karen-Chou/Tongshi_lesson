@@ -1,0 +1,16 @@
+node_modules/
+.python_deps/
+__pycache__/
+*.py[cod]
+
+outputs/
+code/outputs/
+
+.env
+.venv/
+venv/
+npm-debug.log*
+
+/build_appendix_xlsx.py
+/build_presentation.mjs
+/build_supporting_materials.py

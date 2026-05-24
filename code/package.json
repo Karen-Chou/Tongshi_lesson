@@ -1,0 +1,12 @@
+{
+  "name": "tongshi-lesson-materials",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:pptx": "node build_presentation.mjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}
