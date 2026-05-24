@@ -1,16 +1,16 @@
 node_modules/
 .python_deps/
+.matplotlib/
+.idea/
 __pycache__/
+*/__pycache__/
 *.py[cod]
 
-outputs/
-code/outputs/
+/build_appendix_xlsx.py
+/build_presentation.mjs
+/build_supporting_materials.py
 
 .env
 .venv/
 venv/
 npm-debug.log*
-
-/build_appendix_xlsx.py
-/build_presentation.mjs
-/build_supporting_materials.py
